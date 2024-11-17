@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Demo Extension",
+  "version": "0.0.1",
+  "description": "My Extension",
+  "icons": {
+    "16": "images/icon-16.png",
+    "128": "images/icon-128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Click Me"
+  }
+}
